@@ -52,6 +52,9 @@ body{
    font-size: x-large;
    text-align: justify;
    color: rgb(3, 3, 3);
+   position: relative;
+    top: 20px;
+    
 }
 
 
